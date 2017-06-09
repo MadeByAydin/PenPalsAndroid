@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "641637290907",
+    "firebase_url": "https://penpals-3cd80.firebaseio.com",
+    "project_id": "penpals-3cd80",
+    "storage_bucket": "penpals-3cd80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641637290907:android:e13dfd1357ec03c0",
+        "android_client_info": {
+          "package_name": "edu.udel.iyannamm.penpals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641637290907-cmqpm63or9k2qko6hjpd6mvrfart1t04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.udel.iyannamm.penpals",
+            "certificate_hash": "be13b07c3ac3977347d65235609e243e5108991c"
+          }
+        },
+        {
+          "client_id": "641637290907-srb7h2m7ut7b1t2kkmj99gqjds0plfgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCffgECGFS9ZvRS0iAciIBGoFaLA4Wf9-I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641637290907-srb7h2m7ut7b1t2kkmj99gqjds0plfgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
